@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Emoji Sentiment Analyzer</title>
+  <meta charset="UTF-8" />
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+    }
+    textarea, input[type="text"] {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      margin-bottom: 1rem;
+    }
+    .output-box {
+      padding: 1rem;
+      background-color: #f0f0f0;
+      border-left: 4px solid #4CAF50;
+      margin-bottom: 1rem;
+      white-space: pre-wrap;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+<h2>🔤 Emoji Sentiment Replacer</h2>
+
+<form th:action="@{/process}" method="post">
+  <label for="inputText">Enter Text:</label>
+  <textarea id="inputText" name="inputText" rows="4" placeholder="Type something like: I am happy but tired..."></textarea>
+
+  <button type="submit">Analyze</button>
+</form>
+
+<div th:if="${replacedText}">
+  <h3>🔁 Replaced with Emojis:</h3>
+  <div class="output-box" th:text="${replacedText}"></div>
+</div>
+
+<div th:if="${score}">
+  <h3>📊 Sentiment Score:</h3>
+  <div class="output-box" th:text="'Score: ' + ${score}"></div>
+</div>
+</body>
+</html>

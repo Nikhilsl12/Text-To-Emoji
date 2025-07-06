@@ -1,0 +1,802 @@
+{
+  "happy": {
+    "score": 2,
+    "emoji": "😊"
+  },
+  "excited": {
+    "score": 2,
+    "emoji": "😄"
+  },
+  "love": {
+    "score": 2,
+    "emoji": "❤️"
+  },
+  "great": {
+    "score": 2,
+    "emoji": "👍"
+  },
+  "awesome": {
+    "score": 2,
+    "emoji": "🤩"
+  },
+  "fantastic": {
+    "score": 2,
+    "emoji": "🌟"
+  },
+  "fun": {
+    "score": 2,
+    "emoji": "🎉"
+  },
+  "blessed": {
+    "score": 2,
+    "emoji": "🙏"
+  },
+  "cool": {
+    "score": 1,
+    "emoji": "😎"
+  },
+  "good": {
+    "score": 1,
+    "emoji": "🙂"
+  },
+  "nice": {
+    "score": 1,
+    "emoji": "👌"
+  },
+  "okay": {
+    "score": 0,
+    "emoji": "😐"
+  },
+  "average": {
+    "score": 0,
+    "emoji": "😶"
+  },
+  "tired": {
+    "score": -1,
+    "emoji": "😩"
+  },
+  "bored": {
+    "score": -1,
+    "emoji": "🥱"
+  },
+  "angry": {
+    "score": -2,
+    "emoji": "😠"
+  },
+  "hate": {
+    "score": -2,
+    "emoji": "💢"
+  },
+  "sad": {
+    "score": -2,
+    "emoji": "😢"
+  },
+  "cry": {
+    "score": -2,
+    "emoji": "😭"
+  },
+  "depressed": {
+    "score": -2,
+    "emoji": "😞"
+  },
+  "sleepy": {
+    "score": -1,
+    "emoji": "😴"
+  },
+  "hungry": {
+    "score": -1,
+    "emoji": "🍽️"
+  },
+  "coffee": {
+    "score": 1,
+    "emoji": "☕"
+  },
+  "meeting": {
+    "score": 0,
+    "emoji": "🤝"
+  },
+  "party": {
+    "score": 2,
+    "emoji": "🎊"
+  },
+  "birthday": {
+    "score": 2,
+    "emoji": "🎂"
+  },
+  "work": {
+    "score": 0,
+    "emoji": "💼"
+  },
+  "study": {
+    "score": 0,
+    "emoji": "📚"
+  },
+  "exam": {
+    "score": -1,
+    "emoji": "📝"
+  },
+  "success": {
+    "score": 2,
+    "emoji": "🏆"
+  },
+  "fail": {
+    "score": -2,
+    "emoji": "❌"
+  },
+  "win": {
+    "score": 2,
+    "emoji": "🎯"
+  },
+  "lost": {
+    "score": -2,
+    "emoji": "😓"
+  },
+  "thinking": {
+    "score": 0,
+    "emoji": "🤔"
+  },
+  "confused": {
+    "score": -1,
+    "emoji": "😕"
+  },
+  "help": {
+    "score": 0,
+    "emoji": "🆘"
+  },
+  "joke": {
+    "score": 1,
+    "emoji": "😆"
+  },
+  "laugh": {
+    "score": 2,
+    "emoji": "😂"
+  },
+  "fire": {
+    "score": 2,
+    "emoji": "🔥"
+  },
+  "money": {
+    "score": 1,
+    "emoji": "💰"
+  },
+  "rain": {
+    "score": -1,
+    "emoji": "🌧️"
+  },
+  "sunny": {
+    "score": 2,
+    "emoji": "☀️"
+  },
+  "cold": {
+    "score": -1,
+    "emoji": "🥶"
+  },
+  "hot": {
+    "score": 1,
+    "emoji": "🥵"
+  },
+  "weather": {
+    "score": 0,
+    "emoji": "🌤️"
+  },
+  "music": {
+    "score": 1,
+    "emoji": "🎵"
+  },
+  "dance": {
+    "score": 2,
+    "emoji": "💃"
+  },
+  "movie": {
+    "score": 1,
+    "emoji": "🎬"
+  },
+  "run": {
+    "score": 1,
+    "emoji": "🏃"
+  },
+  "walk": {
+    "score": 0,
+    "emoji": "🚶"
+  },
+  "bike": {
+    "score": 1,
+    "emoji": "🚴"
+  },
+  "drive": {
+    "score": 0,
+    "emoji": "🚗"
+  },
+  "plane": {
+    "score": 1,
+    "emoji": "✈️"
+  },
+  "train": {
+    "score": 0,
+    "emoji": "🚆"
+  },
+  "bus": {
+    "score": 0,
+    "emoji": "🚌"
+  },
+  "car": {
+    "score": 0,
+    "emoji": "🚙"
+  },
+  "tree": {
+    "score": 1,
+    "emoji": "🌳"
+  },
+  "flower": {
+    "score": 2,
+    "emoji": "🌸"
+  },
+  "beach": {
+    "score": 2,
+    "emoji": "🏖️"
+  },
+  "mountain": {
+    "score": 1,
+    "emoji": "🏔️"
+  },
+  "book": {
+    "score": 0,
+    "emoji": "📖"
+  },
+  "pen": {
+    "score": 0,
+    "emoji": "🖊️"
+  },
+  "computer": {
+    "score": 1,
+    "emoji": "💻"
+  },
+  "phone": {
+    "score": 1,
+    "emoji": "📱"
+  },
+  "camera": {
+    "score": 1,
+    "emoji": "📷"
+  },
+  "photo": {
+    "score": 1,
+    "emoji": "🖼️"
+  },
+  "food": {
+    "score": 1,
+    "emoji": "🍕"
+  },
+  "drink": {
+    "score": 1,
+    "emoji": "🥤"
+  },
+  "water": {
+    "score": 0,
+    "emoji": "💧"
+  },
+  "fruit": {
+    "score": 1,
+    "emoji": "🍎"
+  },
+  "vegetable": {
+    "score": 1,
+    "emoji": "🥦"
+  },
+  "dog": {
+    "score": 2,
+    "emoji": "🐶"
+  },
+  "cat": {
+    "score": 2,
+    "emoji": "🐱"
+  },
+  "bird": {
+    "score": 1,
+    "emoji": "🐦"
+  },
+  "fish": {
+    "score": 1,
+    "emoji": "🐟"
+  },
+  "zoo": {
+    "score": 1,
+    "emoji": "🦓"
+  },
+  "sleep": {
+    "score": -1,
+    "emoji": "🛌"
+  },
+  "placeholder77": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder78": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder79": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder80": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder81": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder82": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder83": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder84": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder85": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder86": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder87": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder88": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder89": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder90": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder91": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder92": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder93": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder94": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder95": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder96": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder97": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder98": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder99": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder100": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder101": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder102": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder103": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder104": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder105": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder106": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder107": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder108": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder109": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder110": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder111": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder112": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder113": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder114": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder115": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder116": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder117": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder118": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder119": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder120": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder121": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder122": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder123": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder124": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder125": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder126": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder127": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder128": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder129": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder130": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder131": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder132": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder133": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder134": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder135": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder136": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder137": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder138": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder139": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder140": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder141": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder142": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder143": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder144": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder145": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder146": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder147": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder148": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder149": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder150": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder151": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder152": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder153": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder154": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder155": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder156": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder157": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder158": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder159": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder160": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder161": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder162": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder163": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder164": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder165": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder166": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder167": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder168": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder169": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder170": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder171": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder172": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder173": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder174": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder175": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder176": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder177": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder178": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder179": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder180": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder181": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder182": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder183": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder184": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder185": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder186": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder187": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder188": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder189": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder190": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder191": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder192": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder193": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder194": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder195": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder196": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder197": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder198": {
+    "score": 0,
+    "emoji": "🔹"
+  },
+  "placeholder199": {
+    "score": 0,
+    "emoji": "🔹"
+  }
+}
